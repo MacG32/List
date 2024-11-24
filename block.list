@@ -13,20 +13,6 @@ https://sslbl.abuse.ch/blacklist/sslipblacklist.txt
 https://gist.githubusercontent.com/BBcan177/bf29d47ea04391cb3eb0/raw
 https://gist.githubusercontent.com/BBcan177/d7105c242f17f4498f81/raw
 https://www.binarydefense.com/banlist.txt
-https://lists.blocklist.de/lists/apache.txt
-https://www.blocklist.de/lists/asterisk.txt
-https://lists.blocklist.de/lists/bots.txt
-https://lists.blocklist.de/lists/bruteforcelogin.txt
-https://www.blocklist.de/lists/email.txt
-https://lists.blocklist.de/lists/ftp.txt
-https://www.blocklist.de/lists/proftpd.txt
-https://lists.blocklist.de/lists/imap.txt
-https://lists.blocklist.de/lists/mail.txt
-https://www.blocklist.de/lists/pop3.txt
-https://www.blocklist.de/lists/postfix.txt
-https://lists.blocklist.de/lists/sip.txt
-https://lists.blocklist.de/lists/ssh.txt
-https://lists.blocklist.de/lists/strongips.txt
 https://lists.blocklist.de/lists/all.txt
 https://cinsscore.com/list/ci-badguys.txt
 https://cinsarmy.com/list/ci-badguys.txt
@@ -41,4 +27,3 @@ https://www.stopforumspam.com/downloads/toxic_ip_cidr.txt
 https://pastebin.com/raw/FjWpUs9y
 https://sslbl.abuse.ch/blacklist/sslipblacklist_aggressive.txt
 https://www.binarydefense.com/tor.txt
-https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/firewall/spy.txt
